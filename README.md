@@ -28,12 +28,6 @@ Here are some snapshots from my recent projects:
 - ![Project Image 2](image-link-2)
 - More on [My Portfolio](portfolio-link)
 
----
-
-### My Projects and Contributions
-[Here, you can add a list of projects with descriptions and links, highlighting your role and achievements in each.]
-
----
 
 Stay tuned for more updates on my exciting journey in robotics!
 
