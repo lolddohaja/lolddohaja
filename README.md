@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Gibeom Ryu 👋
 
 ## 🤖 About Me
 I'm a passionate Robotics Engineer with a keen interest in developing autonomous systems. Making robots smarter and more capable is not just my job, it's my passion!
