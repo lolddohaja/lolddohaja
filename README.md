@@ -1,33 +1,32 @@
 # Hi there, I'm Gibeom Ryu 👋
 
 ## 🤖 About Me
-I'm a passionate Robotics Engineer with a keen interest in developing autonomous systems. Making robots smarter and more capable is not just my job, it's my passion!
+I'm a passionate Robotics Engineer with a deep interest in developing autonomous systems. My journey involves making robots smarter and more efficient, turning my passion into a profession. From indoor air purification to outdoor navigation, my projects aim at enhancing human-robot interaction and environmental adaptability.
 
 ## 🔭 I’m currently working on...
-- Enhancing autonomous navigation in outdoor robots using **TAO Toolkit**
-- Integrating **BPNet**, **PoseClassificationNet**, **ActionRecognitionNet**, and **SegFormer** with NVIDIA Isaac ROS
-- My goal: Creating reliable and efficient outdoor autonomous robots
+- **Outdoor Robot Development** (2023.12.19 - Present): Focusing on autonomous navigation and control system integration using OpenRMF for fleet management.
+- **Education Robot V2 Development** (2024.01.02 - 2024.03.19): Leveraging Raspberry Pi for AI-based autonomous navigation, updating ROS packages to ROS2, and experimenting with various navigation strategies using Lidar data and navigation2.
+- **Drone Development** (2024.02.13 - Present): Focusing on hardware selection, developing finger recognition features using the drone's camera, and creating a real-time streaming service.
 
 ## 🌱 I’m currently learning...
-- Diving deeper into the **MPPI Algorithm** for advanced navigation solutions
+- Advanced control of drones using **MAVLink**, focusing on enhancing communication and control capabilities for better operational efficiency.
 
-## 💬 Ask me about...
-- Anything related to Robotics, Autonomous Systems, or even the best dad jokes!
+## 💬 Projects Highlight
+- **Disinfection Robot** (2021.12.13 - 2022.12.05): An indoor autonomous robot utilizing environmental sensors for data collection and air purification.
+- **Service Robot** (2021.12.13 - 2023.05.24): Focused on user interaction and indoor navigation.
+- **Education Robots** (2022.01.05 - 2023.12.18): Developed using Jetson Nano, focusing on AI-driven autonomous navigation for educational purposes.
+- **Simulation with Nvidia Omniverse Isaac Sim** (2022.07.25 - 2022.10.07): Enhanced realism in robot simulation by integrating digital twins and precise component modeling.
+- **Teaching at Handong University** (2023.09.25 - 2023.10.20): Conducted courses using educational robots.
 
 ## 📫 How to reach me...
 - 🏢 Work: `progryu@zetabank.co.kr`
 - 📧 Personal: `progryu@naver.com`
 
 ## ⚡ Fun fact...
-I love a good laugh! Here’s a dad joke: 
-"Why don't scientists trust atoms? Because they make up everything!"
+"Why don't scientists trust atoms? Because they make up everything!" Love sharing a good laugh through the most unexpected dad jokes.
 
-## 🖼️ Visual Elements
-Here are some snapshots from my recent projects:
-- ![Project Image 1](image-link-1)
-- ![Project Image 2](image-link-2)
-- More on [My Portfolio](portfolio-link)
+## 🖼️ Portfolio Sneak Peek
+Below are some of my recent projects that showcase my passion and dedication to robotics. Please visit [My Portfolio](portfolio-link) for more detailed insights and discussions on my work.
+- (Project Image Links or Descriptions)
 
-
-Stay tuned for more updates on my exciting journey in robotics!
-
+Stay updated with my journey in making the world a better place, one robot at a time!
